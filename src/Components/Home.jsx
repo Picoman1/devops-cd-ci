@@ -22,7 +22,7 @@ const Home = () => {
                 <TableCell>First Name</TableCell>
                 <TableCell>Last Name</TableCell>
                 <TableCell>Age</TableCell>
-                <TableCell>Address</TableCell>
+                <TableCell>Address in detail</TableCell>
             </TableRow>
        </TableHead>
        <TableBody>
